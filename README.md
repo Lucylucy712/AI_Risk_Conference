@@ -1,10 +1,11 @@
 # AI_Risk_Conference
 A site to summarize conference in area of AI+Risk
 
-## Ai4 2026: ☆☆☆☆☆
-1. Website: https://ai4.io/
-2. It's an industry conference in America
-3. Not open for paper submission
+## Fintech & Financial Institutions Research Conference ★★★★★
+1. Website: https://lerner.udel.edu/faculty-and-research/lectures-seminars/fintech-financial-institutions-research-conference/
+2. Location: Dealware
+3. Deadline for 2026 Paper Submission: Dec 31, 2025
+4. 这个挺好的，但是deadline已经来不及了
 
 ## The AI in Finance Conference ★★☆☆☆
 1. Website: https://sites.google.com/view/ai-finance-conference-2026/home?authuser=0
@@ -12,6 +13,11 @@ A site to summarize conference in area of AI+Risk
 3. Deadline for 2026 Paper Submission: Feb 01, 2026
 4. Fee for 2026 Paper Submission: Each submission should be accompanied with a paper submission fee of $90 (USD)
 5. Comment: 水会吧，竟然还要要钱
+
+## Ai4 2026: ☆☆☆☆☆
+1. Website: https://ai4.io/
+2. It's an industry conference in America
+3. Not open for paper submission
 
 ## 8th Annual Artificial Intelligence in Financial Services Conference 2026 ☆☆☆☆☆
 1. Website: https://www.arena-international.com/event/aifs/
@@ -22,3 +28,10 @@ A site to summarize conference in area of AI+Risk
 1. Website: https://www.scheller.gatech.edu/events/ai-future-of-finance-conference/index.html
 2. Similiar to Ai4, it's an industry conference in America
 3. Not open for paper submission
+
+## ICSE FinanSE 2026 ☆☆☆☆☆
+1. Website: https://conf.researchr.org/home/icse-2026/finanse-2026#Call-for-Papers
+2. Location: Brazil
+3. 这是ICSE(International Conference on Software Engineering)旗下的workshop，ICSE是计算机工程顶会，但是不适用于我们的方向。他accept的paper都是软工类的
+
+
