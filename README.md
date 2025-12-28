@@ -29,10 +29,17 @@ A site to summarize conference and jornuals in area of AI+Risk
 3. Deadline: 应该是2026年五月
 4. 这个挺好的，可以看看
 
+## 🔥 ***Critical*** ---KDD 2027 workshop ★★★★★
+1. Website: 
+2. Location:
+3. 去年的page:https://kdd2026.kdd.org/
+4. Deadline: 应该是2026年9月
+5. 这个挺好的，可以看看
+
 ## 🔥 ***Critical*** ---ICLR 2027 workshop ★★★★★
 1. Website: 
 2. Location:
-3. 去年的page:https://sites.google.com/view/neurips-25-gen-ai-in-finance/call-for-papers?authuser=0
+3. 去年的page:https://iclr.cc/
 4. Deadline: 应该是2026年9月
 5. 这个挺好的，可以看看
 
