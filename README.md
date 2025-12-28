@@ -1,6 +1,7 @@
 # AI_Risk_Conference
 A site to summarize conference in area of AI+Risk
-
+<details>
+<summary> Conference in 2026 </summary>
 ## Fintech & Financial Institutions Research Conference ★★★★★
 1. Website: https://lerner.udel.edu/faculty-and-research/lectures-seminars/fintech-financial-institutions-research-conference/
 2. Location: Dealware
@@ -46,4 +47,4 @@ A site to summarize conference in area of AI+Risk
 2. Location: Brazil
 3. 这是ICSE(International Conference on Software Engineering)旗下的workshop，ICSE是计算机工程顶会，但是不适用于我们的方向。他accept的paper都是软工类的
 
-
+</details>
