@@ -1,7 +1,10 @@
-# AI_Risk_Conference
-A site to summarize conference in area of AI+Risk
+# AI + Risk
+A site to summarize conference and jornuals in area of AI+Risk
+
 <details>
+
 <summary> Conference in 2026 </summary>
+  
 ## Fintech & Financial Institutions Research Conference ★★★★★
 1. Website: https://lerner.udel.edu/faculty-and-research/lectures-seminars/fintech-financial-institutions-research-conference/
 2. Location: Dealware
