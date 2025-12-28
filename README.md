@@ -23,6 +23,12 @@ A site to summarize conference and jornuals in area of AI+Risk
 3. Deadline for 2026 Paper Submission: May 15, 2025
 4. 这个很适配，密切关注
 
+## 🔥 ***Critical*** ---The Thirty-Eighth Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-27)  ★★★★★
+1. Website: https://aaai.org/conference/aaai/aaai-26/iaai-26-call/
+2. Location:
+3. Deadline: 应该是2026年五月
+4. 这个挺好的，可以看看
+
 ## The AI in Finance Conference ★★☆☆☆
 1. Website: https://sites.google.com/view/ai-finance-conference-2026/home?authuser=0
 2. Location: Smith School of Business, University of Maryland
