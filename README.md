@@ -7,6 +7,12 @@ A site to summarize conference in area of AI+Risk
 3. Deadline for 2026 Paper Submission: Dec 31, 2025
 4. 这个挺好的，但是deadline已经来不及了
 
+## 🔥 **Critical** ICAIF – the ACM International Conference on AI in Finance ★★★★★
+1. Website: https://www.linkedin.com/posts/andrea-maurino-b700bb8_excited-to-share-that-icaif-the-acm-international-activity-7398621238249553920-N8fR/
+2. Location: Milan
+3. Deadline for 2026 Paper Submission: Pending
+4. 这个很适配，密切关注
+
 ## The AI in Finance Conference ★★☆☆☆
 1. Website: https://sites.google.com/view/ai-finance-conference-2026/home?authuser=0
 2. Location: Smith School of Business, University of Maryland
